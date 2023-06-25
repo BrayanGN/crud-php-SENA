@@ -1,0 +1,16 @@
+.mi{
+    
+    box-shadow: 10px 10px 5px 1px rgb(150, 149, 149); 
+    transition: all 0.4s ease; 
+    
+}
+.mi:hover{
+    position: relative;
+    left: 4px;
+    top: 4px;
+    overflow-x: hidden;
+    scrollbar-width: none;
+    transition: all 0.7s ease;
+    box-shadow: 16px 16px 7px;
+}
+
